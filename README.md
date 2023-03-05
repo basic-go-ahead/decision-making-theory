@@ -1,5 +1,16 @@
 # Decision Making Theory сourse in Moscow Aviation Institute
 
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+
+## Lectures
+| Date       | Lecture |
+|------------|---------|
+| 14.02.2023 | Intro to prediction with expert advice. Examples. The weighted majority algorithm |
+| 21.02.2023 | The randomized weighted majority algorithm. The multiplicative weights algorithm |
+| 28.02.2023 | Analysis of weighted average forecasters. The exponentially weighted average forecaster |
+| 07.03.2023 | [The optimal bound for the exponentially weighted average forecaster](/lectures/lecture04.pdf) |
+
 ## Homeworks
 | Date       | Homework | Deadline |
 |------------|----------|----------|
