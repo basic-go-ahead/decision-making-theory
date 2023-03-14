@@ -10,6 +10,7 @@
 | 21.02.2023 | The randomized weighted majority algorithm. The multiplicative weights algorithm |
 | 28.02.2023 | Analysis of weighted average forecasters. The exponentially weighted average forecaster |
 | 07.03.2023 | [The optimal bound for the exponentially weighted average forecaster](/lectures/lecture04.pdf) |
+| 14.03.2023 | [The exponentially weighted average forecaster with a time-varying parameter. The gradient-based algorithm](/lectures/lecture05.pdf) |
 
 ## Homeworks
 | Date       | Homework | Deadline |
