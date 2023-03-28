@@ -11,6 +11,8 @@
 | 28.02.2023 | Analysis of weighted average forecasters. The exponentially weighted average forecaster |
 | 07.03.2023 | [The optimal bound for the exponentially weighted average forecaster](/lectures/lecture04.pdf) |
 | 14.03.2023 | [The exponentially weighted average forecaster with a time-varying parameter. The gradient-based algorithm](/lectures/lecture05.pdf) |
+| 21.03.2023 | Seminar: Student's talk concerning the polynomially weighted average forecaster |
+| 28.03.2023 | [The set-up of online convex optimization. Basic methods](/lectures/lecture06.pdf) |
 
 ## Homeworks
 | Date       | Homework | Deadline |
