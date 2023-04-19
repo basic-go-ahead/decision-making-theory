@@ -13,6 +13,9 @@
 | 14.03.2023 | [The exponentially weighted average forecaster with a time-varying parameter. The gradient-based algorithm](/lectures/lecture05.pdf) |
 | 21.03.2023 | Seminar: Student's talk concerning the polynomially weighted average forecaster |
 | 28.03.2023 | [The set-up of online convex optimization. Basic methods](/lectures/lecture06.pdf) |
+| 05.04.2023 | Seminar: Student's talk on some online algorithms |
+| 12.04.2023 | [Online gradient descent](/lectures/lecture07.pdf) |
+| 19.04.2023 | Seminar: Student's talk on some online algorithms |
 
 ## Homeworks
 | Date       | Homework | Deadline |
@@ -23,3 +26,4 @@
 
 - [V.V. Vyugin. Mathematical foundations of machine learning and forecasting](http://iitp.ru/upload/publications/6256/vyugin1.pdf)
 - [N. Cesa-Bianchi, G. Lugosi. Predictions, Learning, and Games](https://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
+- [Elad Hazan, Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)
