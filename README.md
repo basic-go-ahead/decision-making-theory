@@ -13,14 +13,15 @@
 | 14.03.2023 | [The exponentially weighted average forecaster with a time-varying parameter. The gradient-based algorithm](/lectures/lecture05.pdf) |
 | 21.03.2023 | Seminar: Student's talk concerning the polynomially weighted average forecaster |
 | 28.03.2023 | [The set-up of online convex optimization. Basic methods](/lectures/lecture06.pdf) |
-| 05.04.2023 | Seminar: Student's talk on some online algorithms |
-| 12.04.2023 | [Online gradient descent](/lectures/lecture07.pdf) |
-| 19.04.2023 | Seminar: Student's talk on some online algorithms |
+| 04.04.2023 | Seminar: Student's talk on some online algorithms |
+| 11.04.2023 | [Online gradient descent](/lectures/lecture07.pdf) |
+| 18.04.2023 | Seminar: Student's talk on some online algorithms |
 
 ## Homeworks
 | Date       | Homework | Deadline |
 |------------|----------|----------|
 | 07.03.2023 | [Prediction with Expert Advice](./hw/hw1.pdf) | 10.04.2023, 12:00 |
+| 20.04.2023 | [Online Portfolio Selection](./hw/hw2.ipynb) | 08.05.2023, 23:30 |
 
 ## References
 
